@@ -1,0 +1,35 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>new user</title>
+    <link rel="stylesheet" href="../css/newUser.css">
+    <script defer src="../js/newUser.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h2>יצירת חשבון</h2>
+        <form id="form">
+            <label>שם משתמש</label>
+            <input id="name" type="text" required><br> <br>
+
+            <lable>אימייל</lable>
+            <input type="email" /><br> <br>
+
+            <label>טלפון</label>
+            <input type="tel" /><br><br>
+
+            <label>סיסמא</label>
+            <input id="password" type="password" required /><br> <br>
+
+            <label>אימות סיסמא</label>
+            <input id="checkPassword" type="password" required /><br> <br>
+
+            <button onclick="addNewUser()">שליחה</button>
+        </form>
+    </div>
+</body>
+
+</html>

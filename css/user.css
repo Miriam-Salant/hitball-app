@@ -1,0 +1,44 @@
+.container {
+  width: 15%;
+  margin: 0 auto;
+  padding: 2%;
+  margin-top: 10%;
+}
+
+h2 {
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-top: 10%;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+button {
+  width: 107%;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #333333;
+}
+
+a {
+  font-family: Arial, sans-serif;
+  color: black;
+  text-decoration: none;
+}

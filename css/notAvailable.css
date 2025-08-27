@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+#text {
+    margin-top: 10%;
+    color: white;
+}
