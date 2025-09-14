@@ -17,17 +17,11 @@ Players receive feedback after each guess to help them deduce the correct order,
 
 ---
 
-## Installation & Usage
-1. Clone or download the repository:  
-   ```bash
-   git clone https://github.com/USERNAME/hitball-app.git
-Open index.html in your browser.
-
-Start playing immediately – no server or backend needed.
-
-Technologies
-HTML5
-
-CSS3
-
-JavaScript (ES6)
+**Installation & Usage:**
+Clone or download the repository with `git clone https://github.com/USERNAME/hitball-app.git`.
+Then open `index.html` in your browser.
+Start playing immediately– **no server or backend needed**.
+**Technologies:**
+**HTML5**,
+**CSS3**, 
+**JavaScript (ES6)**.
