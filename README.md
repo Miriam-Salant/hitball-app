@@ -13,14 +13,12 @@ Keep guessing until you **crack the secret sequence**!
 1. Clone or download the repository:  
    ```bash
    git clone https://github.com/USERNAME/hitball-app.git
-   Open index.html in your browser.
+Open index.html in your browser.
 
-   Start playing immediately – no server or backend needed.
+**Start playing immediately – no server or backend needed.**
 
-Technologies:
+**Technologies:**  
 
-   HTML5
-
-   CSS3
-
-   JavaScript (ES6)
+- HTML5
+- CSS3
+- JavaScript (ES6)
